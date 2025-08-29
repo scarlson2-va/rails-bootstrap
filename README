@@ -6,6 +6,10 @@ https://github.com/RailsApps/rails_apps_composer
 provided by the RailsApps Project:
 http://railsapps.github.io/
 
+Dummy Change
+
+secret: password1234
+(not a real secret)
 ________________________
 
 Recipes:
