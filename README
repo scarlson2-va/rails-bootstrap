@@ -8,6 +8,8 @@ http://railsapps.github.io/
 
 Dummy Change
 
+secret: password1234
+(not a real secret)
 ________________________
 
 Recipes:
